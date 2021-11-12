@@ -133,7 +133,11 @@ Com uma arma de longa distancia na mão, utilizando um cajado que dispara bolas 
 ![fire](https://user-images.githubusercontent.com/87226253/141411412-42f7dde6-06b5-4c93-882e-3c1d74614a55.png)    
   
 + ## **Vida e morte**  
-O sistema de vida será 10 corações que ficarão na superior esuqerda da tela. A cada dano tomado, um coração é destuido, sendo assim, quando todos os corações ofrem destruidos o jogador morre.   
+O sistema de vida será 10 corações que ficarão na superior esuqerda da tela. A cada dano tomado, um coração é destuido, sendo assim, quando todos os corações ofrem destruidos o jogador morre.
+
+![Life](https://user-images.githubusercontent.com/87226253/141411637-f3f52cf9-5ef3-46eb-8560-97f70380fc06.png)
+    
+![Game over](https://user-images.githubusercontent.com/87226253/141411726-98f19568-8de0-43ff-8464-c444328ba2d0.png)    
     
 + ## **Checkpoint**    
 Durante a fase, terá somente no início da fase e antes do chefão da fase.
@@ -141,11 +145,17 @@ Durante a fase, terá somente no início da fase e antes do chefão da fase.
 + ## **NPCs**  
 Serão de ajudo como tutoriais e contando partes da história.
     
+![npc](https://user-images.githubusercontent.com/87226253/141411836-fff0f3d8-cbf4-4595-871e-902bddb4db73.png)    
+    
 + ## **Inimigos**  
  Alguns apenas andam para frente e para trás, outros voam e te seguem e alguns poucos dão tiros que perseguem o jogador.
     
-+ ## **Chefe**    
-Os Chefes de cada fase serão de acordo com o tema da mesma.
+![ininimigos](https://user-images.githubusercontent.com/87226253/141412243-565fc146-230b-4f5c-b39b-24f1126b16fb.png)    
+    
++ ## **Chefe**       
+Haverá um chefe ao final de cada uma das 6 fases.
+    
+![Chefe](https://user-images.githubusercontent.com/87226253/141411959-ce569481-c44e-40cf-8514-ea3470b7007e.png)    
     
 # 5 - Mercado e produção     
 ## 5.1 - Equipe e orçamento 
@@ -154,7 +164,9 @@ Cinco desenvolvedores. Cerca de 4 horas semanais para discussão e planejamento.
 ## 5.2 - Público-alvo 
 Pessoas a partir de 10 anos que tenham interesse em histórias infantis e na exploração de um mundo de fantasia.
     
-## 5.3 - Classificação indicativa     
+## 5.3 - Classificação indicativa  
+    
+![cdcef](https://user-images.githubusercontent.com/87226253/141412135-e462c0c0-7e0f-46f9-95e9-2593e43d8dd9.jpg)    
     
     
     
