@@ -124,6 +124,9 @@ As informações serão básicas e minimalistas para poder não atrapalhar a exp
 + ## **Personagem principal**     
 O personagem pode atacar(Mouse0, ou, botão esquerdo do mouse), andar para os lados ('A' e 'D'), pulo dinâmico(apartar ou segurar Espaço, o quanto mais segurar, mais alto).
     
+![PLayer](https://user-images.githubusercontent.com/87226253/141411162-249804a8-4ab8-4c0f-9be2-2e843337ff1e.png)
+    
+    
 + ## **Combate** 
 Com uma arma de longa distancia na mão, utilizando um cajado que dispara bolas de fogo azul. 
   
