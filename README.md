@@ -129,6 +129,8 @@ O personagem pode atacar(Mouse0, ou, botão esquerdo do mouse), andar para os la
     
 + ## **Combate** 
 Com uma arma de longa distancia na mão, utilizando um cajado que dispara bolas de fogo azul. 
+    
+![fire](https://user-images.githubusercontent.com/87226253/141411412-42f7dde6-06b5-4c93-882e-3c1d74614a55.png)    
   
 + ## **Vida e morte**  
 O sistema de vida será 10 corações que ficarão na superior esuqerda da tela. A cada dano tomado, um coração é destuido, sendo assim, quando todos os corações ofrem destruidos o jogador morre.   
