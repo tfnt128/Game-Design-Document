@@ -1,6 +1,6 @@
 # High Concept
 
-## Shakedown
+## Elementals
 Centro Universitário FACENS - Faculdade de Tecnologia em Jogos Digitais
 
 ## 2° Versão
@@ -17,7 +17,7 @@ Thiago Carvalho Carneiro da Fontoura - Programação, animação, sound design e
   <p>Versão 0.2<p>
     
 # 1 - Descrição, gênero e plataforma
-Shakedown é um jogo digital 2D de plataforma,focado especificamente em exploração de cenário e mecânicas de aventura, disponível futuramente para PC.
+Elementals é um jogo digital 2D de plataforma,focado especificamente em exploração de cenário e mecânicas de aventura, disponível futuramente para PC.
     
 # 2 - Mecânicas principais
 + ## **Movimentação:** 
@@ -37,7 +37,7 @@ Anos se passaram e em um dia, os monstros nas arredondezas de Citri, invadiram o
 Porém em 1280, uma criança de afinidade ao elemento água, com o reino já em ruínas, sai em viagem a procura dos 6 cajados, pois, de acordo com a própria criança, ela tem que ser a pessoa na qual fará o seu reino se erguer novamente, recuperando os cajados e devolvendo a magia completa à citra.
     
 # 4 - Diferencial
-Diferente de outros jogos 2D que não utilizam de forma abundante a exploração de cenários ao seu favor, fazendo então o jogador avançar à próxima fase em muito pouco tempo Shakedown tem como diferencial as mecânicas de exploração para que se demore mais na conclusão da fase.
+Diferente de outros jogos 2D que não utilizam de forma abundante a exploração de cenários ao seu favor, fazendo então o jogador avançar à próxima fase em muito pouco tempo Elementals tem como diferencial as mecânicas de exploração para que se demore mais na conclusão da fase.
     
 # 5 - Público alvo
 Pessoas a partir de 10 anos que tenham interesse em histórias infantis e na exploração de um mundo de fantasia.
@@ -51,14 +51,14 @@ O jogo ja está em seus estágios finais, somente sendo polido. Deve ficar pront
 # 8 - Equipe e orçamento
 Cinco pessoas, duas para programação, duas para arte, e uma para a documentação. Cerca de 4 horas semanais de discussão e planejamento e, até o momento, zero reais investidos.
     
-# 9 - Objetivo de Desenvolvimento Sustentável da ONU em Shakedown
+# 9 - Objetivo de Desenvolvimento Sustentável da ONU em Elementals
 Combate ao desmatamento e poluição.
 
 
 
 
 # Game Design Document
-## SHAKEDOWN
+## ELEMENTALS
 
 Centro Universitário FACENS - Faculdade de Tecnologia em Jogos Digitais
 
@@ -76,16 +76,16 @@ Thiago Carvalho Carneiro da Fontoura - Programação, animação e sound design(
   <p>Versão 0.2<p>
   
  # 1 - Visão geral essencial e objetivos  
- Shakedown é um jogo 2D de plataforma, focado especificamente em exploração de cenário e mecânicas de aventura.
+ Elementals é um jogo 2D de plataforma, focado especificamente em exploração de cenário e mecânicas de aventura.
   
  ## 1.1 - Resumo 
-  Shakedown é um jogo digital para 1 pessoa com temáticas fantasiosas. O jogador parte para uma aventura controlando um garoto mago, explorando pântanos, cavernas, masmorras e enfrentando monstros com mecânicas únicas. Toda a jogatina se passa em um passado fantasioso de um garoto que irá tentar para recuperar os 6 cajados ancestrais roubados e restaurar a força mágica de Citra, seu reino.
+  Elementals é um jogo digital para 1 pessoa com temáticas fantasiosas. O jogador parte para uma aventura controlando um garoto mago, explorando pântanos, cavernas, masmorras e enfrentando monstros com mecânicas únicas. Toda a jogatina se passa em um passado fantasioso de um garoto que irá tentar para recuperar os 6 cajados ancestrais roubados e restaurar a força mágica de Citra, seu reino.
   
  ## 1.2 - Aspectos fundamentais
   A essência do jogo, de um ponto de vista da jogabilidade, é caracterizada pela exploração, movimentação e interação do personagem principal a outros personagens secundarios, como NPCs e criaturas que irá encontrar ao longo do caminho.
   
  ## 1.3 - Golden nuggets 
-  Diferente de outros jogos 2D que não utilizam de forma abundante a exploração de cenários ao seu favor, fazendo então o jogador avançar à próxima fase em muito pouco tempo Shakedown tem como diferencial as mecânicas de exploração inspiradas por Hollow Knight e a série Castlevania, para que em cada fase o jogador demore mais para concluí-la.
+  Diferente de outros jogos 2D que não utilizam de forma abundante a exploração de cenários ao seu favor, fazendo então o jogador avançar à próxima fase em muito pouco tempo Elementals tem como diferencial as mecânicas de exploração inspiradas por Hollow Knight e a série Castlevania, para que em cada fase o jogador demore mais para concluí-la.
   ![hollow](https://user-images.githubusercontent.com/87226253/141400417-112af2bd-6e8d-45ea-8d50-2cb46e454a66.jpg)
   
 #  2 - Enredo e contexto do jogo
